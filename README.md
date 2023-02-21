@@ -33,5 +33,5 @@ am still learning to make a website responsive .
 ## Author
 
 - Website - [Christopher](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@codewithchristopher](https://www.frontendmentor.io/profile/codewithchristopher)
 - Twitter - [@christopher1100](https://www.twitter.com/christopher1100)
